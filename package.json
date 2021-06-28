@@ -1,0 +1,25 @@
+{
+  "name": "vvmily-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "vvmily": "./bin/index.js",
+    "vvmily-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "alphabetjs": "^0.1.4",
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.3.3",
+    "ora": "^5.2.0",
+    "shelljs": "^0.8.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
