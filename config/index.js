@@ -3,18 +3,12 @@
 
 const defaultUrlList = [
     {
-        key: "b",
-        name: "花裤衩后台管理框架",
-        value: "direct:https://github.com/zuiidea/antd-admin",
-    },
-    {
         key: "a",
-        name: "居里移动端自适应框架",
-        value: "direct:https://github.com/2277419213/vue_h5_dome",
+        name: "vvmily管理后台模板",
+        value: "direct:https://github.com/wwmingly/vue-demo",
     },
-
     {
-        key: "c",
+        key: "b",
         name: "antd-admin后台管理框架",
         value: "direct:https://github.com/zuiidea/antd-admin",
     }
