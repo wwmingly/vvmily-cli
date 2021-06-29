@@ -1,6 +1,6 @@
 
 本脚手架搭建，目的就是减少一些复制粘贴，把公共部分作为一个模板进行维护
-![](images/screenshot_1624879951357.png)
+![image](https://user-images.githubusercontent.com/29161018/123725768-44d48c00-d8c1-11eb-95d4-f13cc4c6529a.png)
 
 使用，全局安装：
 
@@ -10,7 +10,7 @@ npm install -g vvmily-cli
 通过脚手架clone模板：`vvmily create xxx`
 当在git bash中，上下键不能选择，可使用： `winpty vvmily-cli.cmd create admin-demo
 `
-![](images/screenshot_1624931599031.png)
+![image](https://user-images.githubusercontent.com/29161018/123725788-5158e480-d8c1-11eb-9ee1-784fd1158f80.png)
 1. 借助几个依赖，有兴趣的可以学习一下
 ```
 "alphabetjs": "^0.1.4",  //  展示字母，装逼使用！！！
