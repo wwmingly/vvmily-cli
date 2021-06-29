@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "vvmily": "./bin/index.js",
     "vvmily-cli": "./bin/index.js"
   },
   "scripts": {
@@ -19,7 +18,7 @@
     "ora": "^5.2.0",
     "shelljs": "^0.8.4"
   },
-  "keywords": [],
+  "keywords": ["cli","vue"],
   "author": "",
   "license": "ISC"
 }

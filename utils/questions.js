@@ -24,8 +24,8 @@ const questions = (ProjectName) => {
         validate(val) {
           if (!val) {
             return "模板名称不能为空！";
-          } else if (!val.match(/^[a-z]+$/g)) {
-            return "模板名称只能是小写字母组成，请重新输入";
+          } else if (!val.match(/^[a-z]+[a-z0-9\.-]+$/g)) {
+            return "模板名称只能包含小写字母、数字和短线组成，且只能小写字母开头，请重新输入";
           }
           return true;
         },
