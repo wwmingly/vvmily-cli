@@ -11,6 +11,16 @@ const defaultUrlList = [
         key: "b",
         name: "antd-admin后台管理框架",
         value: "direct:https://github.com/zuiidea/antd-admin",
+    },
+    {
+        key: "c",
+        name: "vue-admin-template之基础模板",
+        value: "direct:https://github.com/PanJiaChen/vue-admin-template",
+    },
+    {
+        key: "d",
+        name: "vue-admin-template之集成方案",
+        value: "direct:https://github.com/PanJiaChen/vue-element-admin",
     }
 ]
 
