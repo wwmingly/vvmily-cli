@@ -5,7 +5,7 @@ const defaultUrlList = [
     {
         key: "a",
         name: "vvmily管理后台模板",
-        value: "direct:https://github.com/wwmingly/vue-demo",
+        value: "direct:https://github.com/wwmingly/vvmily-admin-template",
     },
     {
         key: "b",
